@@ -1,5 +1,5 @@
 import random
-
+#Sorry just adding a comment to test SSH key :D
 def main():
     dice_size = int(input('How many sides does the dice has? '))
     dice_rolls = int(input('How many rolls are we making? '))
